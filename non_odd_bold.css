@@ -5,3 +5,5 @@
     font-weight: 600;
     font-style: normal;
   }
+
+.tk-non_odd_bold { font-family: "non_odd_bold","helvetica", "arial", sans-serif; }
